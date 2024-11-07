@@ -15,10 +15,15 @@ h2 {
 p {
   font-family: verdana;
   front-size: 20px; 
+   text-align: center;
 }
 
 tr {
   font-family: verdana;
   front-size: 60px; 
   text-align: center;
+}
+
+li {
+   text-align: center;
 }
