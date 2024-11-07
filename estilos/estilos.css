@@ -20,10 +20,14 @@ p {
 
 tr {
   font-family: verdana;
-  front-size: 60px; 
+  front-size: 60cm; 
   text-align: center;
 }
 
 li {
+   text-align: center;
+}
+
+b {
    text-align: center;
 }
